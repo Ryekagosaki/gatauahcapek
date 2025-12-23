@@ -15,7 +15,7 @@ payment: {
   dana: "088976906352", 
   gopay: "088976906352", 
   ovo: "088976906352", 
-  qris: "https://files.catbox.moe/x5d0ec.jpeg" 
+  qris: "QRIS" 
 },
 telegram_api: {
   bot: "8539684350:AAH1tpFzmgbWhMWjuHgawjL99_M5MCnfzGE", 
