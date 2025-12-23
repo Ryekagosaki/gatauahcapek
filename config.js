@@ -5,25 +5,25 @@ banner: "https://files.catbox.moe/taxb00.png", // Url Banner
 tentang: "Rabss Ryukii adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
 alamat: "Jl. Kebon nanas selatan 1. 23, Jakarta, Indonesia",
 sosial_media: {
-  email: "hailazmi694@gmail.com", // Email
-  youtube: "mintorX", // YouTube Username 
-  tiktok: "RABS_SHOP", // Tiktok Username 
-  whatsapp: "6288976906352", // WhatsApp Number 
-  telegram: "ArabsAnakMamah" // Telegram Username
+  email: "hailazmi694@gmail.com", 
+  youtube: "mintorX", 
+  tiktok: "RABS_SHOP", 
+  whatsapp: "6288976906352", 
+  telegram: "ArabsAnakMamah" 
 },
 payment: {
-  dana: "088976906352", // Payment Dana
-  gopay: "088976906352", // Payment Gopay 
-  ovo: "088976906352", // Payment Ovo 
-  qris: "https://files.catbox.moe/x5d0ec.jpeg" // Url Qris
+  dana: "088976906352", 
+  gopay: "088976906352", 
+  ovo: "088976906352", 
+  qris: "https://files.catbox.moe/x5d0ec.jpeg" 
 },
 telegram_api: {
-  bot: "8539684350:AAH1tpFzmgbWhMWjuHgawjL99_M5MCnfzGE", // Token bot father
-  chatid: "5788408765" // ID telegram
+  bot: "8539684350:AAH1tpFzmgbWhMWjuHgawjL99_M5MCnfzGE", 
+  chatid: "5788408765" 
 },
 }
 
-// Produk
+
 const productsData = {
             "Hosting": [
               {
