@@ -29,7 +29,7 @@ const productsData = {
               {
                 "id": 1,
                 "name": "Panel Pterodactyl",
-                "icon": "fas fa-server",
+                "icon": "fas fa-crown",
                 "description": "Panel Pterodactyl hosting bot/game dengan performa stabil dan harga terjangkau.",
                 "variants": [
                   { "name": "1GB RAM", "price": 1000 },
