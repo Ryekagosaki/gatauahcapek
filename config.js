@@ -119,7 +119,7 @@ const productsData = {
                 {
                     id: 9,
                     name: "Jasa Install Panel",
-                    icon: "fas fa-crown",
+                    icon: "fas fa-tools",
                     description: "Mempermudah kalian Untuk Bisa Mendapatkan Panel.",
                     variants: [
                         { name: "Install Panel Only", price: 3000 },
