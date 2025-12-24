@@ -1,8 +1,8 @@
 const CONFIG = {
-nama: "Rabss Store", // Nama Store
+nama: "InovaCode", // Nama Store
 profil: "https://files.catbox.moe/taxb00.png", // Url Profil
 banner: "https://files.catbox.moe/taxb00.png", // Url Banner 
-tentang: "Rabss Ryukii adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
+tentang: "InovaCode adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
 alamat: "Jl. Kebon nanas selatan 1. 23, Jakarta, Indonesia",
 sosial_media: {
   email: "hailazmi694@gmail.com", 
