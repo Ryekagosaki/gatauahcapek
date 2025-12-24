@@ -106,14 +106,28 @@ const productsData = {
                     id: 8,
                     name: "Special Panel Pterodactyl",
                     icon: "fas fa-crown",
-                    description: "Jasa pembuatan logo dengan berbagai gaya desain. Cocok untuk brand, usaha, atau komunitas.",
+                    description: "Dapatkan Keuntungan 10x Lipat,bebas jual panel sepuas nya.",
                     variants: [
-                        { name: "Negara Venezuela", price: 1000 },
-                        { name: "Negara Belanda", price: 6000 },
-                        { name: "Negara Kamerun", price: 3000 },
-                        { name: "Negara Haithi", price: 4000 },
-                        { name: "Negara Nigeria", price: 1000 },
-                        { name: "Request Custom", price: "Harga sesuai request negara" }
+                        { name: "Reseller Panel", price: 3000 },
+                        { name: "Admin Panel", price: 6000 },
+                        { name: "Partner Panel", price: 9000 },
+                        { name: "Owner Panel", price: 12000 },
+                        { name: "Owner VIP Panel", price: 15000 },
+                        { name: "Owner VVIP Panel", price: "18000" }
+                    ]
+                },
+                {
+                    id: 9,
+                    name: "Jasa Install Panel",
+                    icon: "fas fa-crown",
+                    description: "Mempermudah kalian Untuk Bisa Mendapatkan Panel.",
+                    variants: [
+                        { name: "Install Panel Only", price: 3000 },
+                        { name: "Install Panel + Hijaukan Node", price: 5000 },
+                        { name: "Install Panel + Hijaukan Node + Pasangkan Egg", price: 10000 },
+                        { name: "Hijaukan Node Only", price: 2000},
+                        { name: "Install Tema", price: 3000 },
+                        { name: "Pasangkan Nest Egg Only", price: "6000" }
                     ]
                 },
             ],
