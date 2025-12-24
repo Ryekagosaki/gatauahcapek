@@ -6,8 +6,8 @@ tentang: "InovaCode adalah toko online terpercaya yang telah melayani ribuan pel
 alamat: "Jl. Kebon nanas selatan 1. 23, Jakarta, Indonesia",
 sosial_media: {
   email: "hailazmi694@gmail.com", 
-  youtube: "mintorX", 
-  tiktok: "RABS_SHOP", 
+  youtube: "MintorX-hb5ww", 
+  tiktok: "azmialkatiri4", 
   whatsapp: "6288976906352", 
   telegram: "ArabsAnakMamah" 
 },
@@ -60,6 +60,16 @@ const productsData = {
                 "name": "VPS Menengah",
                 "icon": "fas fa-hdd",
                 "description": "VPS menengah dengan performa cukup untuk website atau panel hosting.",
+                "variants": [
+                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
+                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "VPS Tinggi",
+                "icon": "fas fa-hdd",
+                "description": "VPS Tinggi dengan performa Jauh Lebih cukup untuk website atau panel hosting.",
                 "variants": [
                   { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
                   { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
