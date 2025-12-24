@@ -68,7 +68,7 @@ const productsData = {
               {
                 "id": 4,
                 "name": "VPS Tinggi",
-                "icon": "fas fa-hdd",
+                "icon": "fas fa-database",
                 "description": "VPS Tinggi dengan performa Jauh Lebih cukup untuk website atau panel hosting.",
                 "variants": [
                   { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
