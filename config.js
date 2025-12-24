@@ -94,7 +94,7 @@ const productsData = {
                 {
                     id: 7,
                     name: "Nokos Premium",
-                    icon: "fas fa-crown",
+                    icon: "fas fa-star",
                     description: "Jasa pembuatan banner untuk promosi usaha, media sosial, atau event.",
                     variants: [
                         { name: "Nokos indonesia unli verif", price: 25000 },
@@ -105,7 +105,7 @@ const productsData = {
                 {
                     id: 8,
                     name: "Special Panel Pterodactyl",
-                    icon: "fas fa-crown",
+                    icon: "fas fa-rocket",
                     description: "Dapatkan Keuntungan 10x Lipat,bebas jual panel sepuas nya.",
                     variants: [
                         { name: "Reseller Panel", price: 3000 },
