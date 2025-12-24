@@ -133,7 +133,7 @@ const productsData = {
             ],
             "Produk Digital": [
                 {
-                    id: 9,
+                    id: 10,
                     name: "Akun Premium",
                     icon: "fas fa-user-circle",
                     description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
@@ -144,7 +144,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 10,
+                    id: 11,
                     name: "Source Code",
                     icon: "fas fa-code",
                     description: "Source code bot dan website siap pakai untuk berbagai kebutuhan proyek Anda.",
