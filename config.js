@@ -42,7 +42,7 @@ const productsData = {
                   { "name": "8GB RAM", "price": 4500 },
                   { "name": "9GB RAM", "price": 5000 },
                   { "name": "10GB RAM", "price": 5500 },
-                  { "name": "Unlimited RAM", "price": 4000 }
+                  { "name": "Unlimited RAM", "price": 4000 },
                 ]
               },
               {
@@ -51,8 +51,11 @@ const productsData = {
                 "icon": "fas fa-microchip",
                 "description": "Virtual Private Server murah untuk belajar dan project kecil.",
                 "variants": [
-                  { "name": "1 vCPU / 1GB RAM / 20GB SSD", "price": 25000 },
-                  { "name": "2 vCPU / 2GB RAM / 40GB SSD", "price": 45000 }
+                  { "name": "2 vCPU / 2GB RAM / 60GB SSD / 3TB BW", "price": 6000 },
+                  { "name": "2 vCPU / 4GB RAM / 80GB SSD / 4TB BW", "price": 9000 },
+                  { "name": "4 vCPU / 8GB RAM / 160GB SSD / 5TB BW", "price": 12000 },
+                  { "name": "4 vCPU / 16GB RAM / 200GB SSD / 8TB BW", "price": 15000 },
+                   { "name": "8 vCPU / 16GB RAM / 320GB SSD / 6TB", "price": 18000 },
                 ]
               },
               {
@@ -61,8 +64,11 @@ const productsData = {
                 "icon": "fas fa-hdd",
                 "description": "VPS menengah dengan performa cukup untuk website atau panel hosting.",
                 "variants": [
-                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
-                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
+                  { "name": "2 vCPU / 2GB RAM / 60GB SSD / 2TB BW", "price": 10000 },
+                  { "name": "2 vCPU / 4GB RAM / 80GB SSD / 4TB BW", "price": 13000 },
+                   { "name": "4 vCPU / 8GB RAM / 160GB SSD / 5TB BW", "price": 17000 },
+                    { "name": "4 vCPU / 16GB RAM / 200GB SSD / 8TB BW", "price": 20000 },
+                     { "name": "8 vCPU / 16GB RAM / 320GB SSD / 6TB BW", "price": 25000 },
                 ]
               },
               {
@@ -71,14 +77,17 @@ const productsData = {
                 "icon": "fas fa-database",
                 "description": "VPS Tinggi dengan performa Jauh Lebih cukup untuk website atau panel hosting.",
                 "variants": [
-                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 75000 },
-                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 135000 }
+                  { "name": "2 vCPU / 2GB RAM / 60GB SSD", "price": 15000 },
+                  { "name": "2 vCPU / 4GB RAM / 80GB SSD", "price": 18000 },
+                  { "name": "4 vCPU / 8GB RAM / 160GB SSD", "price": 25000 },
+                  { "name": "4 vCPU / 16GB RAM / 200GB SSD", "price": 33000 },
+                  { "name": "8 vCPU / 16GB RAM / 320GB SSD", "price": 50000 },
                 ]
               },
             ],
             "special produk": [
                 {
-                    id: 6,
+                    id: 5,
                     name: "Nokos all negara",
                     icon: "fas fa-phone",
                     description: "Jasa pembuatan logo dengan berbagai gaya desain. Cocok untuk brand, usaha, atau komunitas.",
@@ -92,7 +101,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 7,
+                    id: 6,
                     name: "Nokos Premium",
                     icon: "fas fa-star",
                     description: "Jasa pembuatan banner untuk promosi usaha, media sosial, atau event.",
@@ -103,7 +112,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 8,
+                    id: 7,
                     name: "Special Panel Pterodactyl",
                     icon: "fas fa-rocket",
                     description: "Dapatkan Keuntungan 10x Lipat,bebas jual panel sepuas nya.",
@@ -117,7 +126,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 9,
+                    id: 8,
                     name: "Jasa Install Panel",
                     icon: "fas fa-tools",
                     description: "Mempermudah kalian Untuk Bisa Mendapatkan Panel.",
@@ -133,7 +142,7 @@ const productsData = {
             ],
             "Produk Digital": [
                 {
-                    id: 10,
+                    id: 9,
                     name: "Akun Premium",
                     icon: "fas fa-user-circle",
                     description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
@@ -144,7 +153,7 @@ const productsData = {
                     ]
                 },
                 {
-                    id: 11,
+                    id: 10,
                     name: "Source Code",
                     icon: "fas fa-code",
                     description: "Source code bot dan website siap pakai untuk berbagai kebutuhan proyek Anda.",
