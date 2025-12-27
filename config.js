@@ -8,7 +8,7 @@ sosial_media: {
   email: "inovacode3@gmail.com", 
   youtube: "MintorX-hb5ww", 
   tiktok: "azmialkatiri4", 
-  whatsapp: "628813513475", 
+  whatsapp: "6288976906352", 
   telegram: "ArabsAnakMamah" 
 },
 payment: {
