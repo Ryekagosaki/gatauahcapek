@@ -144,7 +144,7 @@ const productsData = {
                 {
                     id: 9,
                     name: "Akun Premium",
-                    icon: "fas fa-user-circle",
+                    icon: "fas fa-circle-user",
                     description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
                     variants: [
                         { name: "Netflix Premium (1 Bulan)", price: 35000 },
