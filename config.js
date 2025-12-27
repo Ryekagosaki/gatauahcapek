@@ -152,17 +152,5 @@ const productsData = {
                         { name: "Canva Pro (1 Bulan)", price: 20000 },
                     ]
                 },
-                {
-                  id: 10,
-                  name: "Source Code",
-                  icon: "fas fa-code",
-                  description: Sourcee code bot dan website siap pakai untuk berbagai kebutuhan proyek Anda.",
-                  variants: [
-                       { name: "Source code bot auto broadcast", price: 5000 },
-                       { name: "Source Code bot create panel via telegram", price: 10000 },
-                       { name: "Source code create panel via whatsapp", price: 15000 },
-                       { name: "Source code bot Fix merah", price: 10000 },
-                   ]
-              },
            ],
         };
