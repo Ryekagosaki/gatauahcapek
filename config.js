@@ -167,7 +167,7 @@ const productsData = {
                     id: 11,
                     name: "Sewa Bot Jaga Grup",
                     icon: "fas fa-robot",
-                    description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
+                    description: "Menyediakan layanan menjaga grup dari hama.",
                     variants: [
                         { name: "Sewa Bot Jaga Gb (1 Hari)", price: 2000 },
                         { name: "Sewa Bot Jaga Gb (3 Hari)", price: 5000 },
@@ -175,5 +175,21 @@ const productsData = {
                         { name: "Sewa Bot Jaga Gb ( Permanen)", price: 10000 },
                     ]
                 },
+                {
+                    id: 12,
+                    name: "Jasa Push Member",
+                    icon: "fas fa-user-plus",
+                    description: "selama berproses harap matikan grup dan jangan ganggu admin yang sedang lagi memproses jpm nya.",
+                    variants: [
+                        { name: "10 Member ", price: 2000 },
+                        { name: "20 Member ", price: 3000 },
+                        { name: "30 Member ", price: 4000 },
+                        { name: "40 Member ", price: 5000 },
+                        { name: "50 Member ", price: 6000 },
+                        { name: "60 Member ", price: 7000 },
+                        { name: "70 Member ", price: 8000 },
+                        { name: "80 Member ", price: 9000 },
+                        { name: "90 Member ", price: 10000 },
+                        { name: "100 Member ", price: 11000 },
            ],
         };
