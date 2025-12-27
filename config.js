@@ -152,5 +152,16 @@ const productsData = {
                         { name: "Canva Pro (1 Bulan)", price: 20000 },
                     ]
                 },
+                {
+                    id: 10,
+                    name: "Source Code",
+                    icon: "fas fa-code",
+                    description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
+                    variants: [
+                        { name: "Netflix Premium (1 Bulan)", price: 35000 },
+                        { name: "Spotify Premium (1 Bulan)", price: 25000 },
+                        { name: "Canva Pro (1 Bulan)", price: 20000 },
+                    ]
+                },
            ],
         };
