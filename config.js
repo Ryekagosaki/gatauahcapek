@@ -162,7 +162,7 @@ const productsData = {
                         { name: "Source Code bot create panel via telegram", price: 10000 },
                         { name: "Source code create panel via whatsapp", price: 15000 },
                         { name: "Source code bot Fix merah", price: 10000 },
-                    ]
-                },
-            ],
+                   ]
+              },
+           ],
         };
