@@ -191,5 +191,7 @@ const productsData = {
                         { name: "80 Member ", price: 9000 },
                         { name: "90 Member ", price: 10000 },
                         { name: "100 Member ", price: 11000 },
-           ],
-        };
+                         ]
+                 },
+              ],     
+           };
