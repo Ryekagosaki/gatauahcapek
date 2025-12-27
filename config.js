@@ -163,5 +163,17 @@ const productsData = {
                         { name: "Canva Pro (1 Bulan)", price: 20000 },
                     ]
                 },
+                {
+                    id: 11,
+                    name: "Sewa Bot Jaga Grup",
+                    icon: "fas fa-robot",
+                    description: "Berbagai akun premium dengan harga terjangkau, cocok untuk hiburan dan produktivitas.",
+                    variants: [
+                        { name: "Sewa Bot Jaga Gb (1 Hari)", price: 2000 },
+                        { name: "Sewa Bot Jaga Gb (3 Hari)", price: 5000 },
+                        { name: "Sewa Bot Jaga Gb (7 Hari)", price: 7000 },
+                        { name: "Sewa Bot Jaga Gb ( Permanen)", price: 10000 },
+                    ]
+                },
            ],
         };
