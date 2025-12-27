@@ -5,10 +5,10 @@ banner: "https://files.catbox.moe/u9j5nt.png", // Url Banner
 tentang: "InovaCode adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
 alamat: "Jl. Kebon nanas selatan 1. 23, Jakarta, Indonesia",
 sosial_media: {
-  email: "hailazmi694@gmail.com", 
+  email: "inovacode3@gmail.com", 
   youtube: "MintorX-hb5ww", 
   tiktok: "azmialkatiri4", 
-  whatsapp: "6288976906352", 
+  whatsapp: "628813513475", 
   telegram: "ArabsAnakMamah" 
 },
 payment: {
